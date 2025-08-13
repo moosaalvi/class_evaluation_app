@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "177719478045",
+    "project_id": "moosa-e27",
+    "storage_bucket": "moosa-e27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177719478045:android:271e1193221849ffac03f4",
+        "android_client_info": {
+          "package_name": "com.example.class_evaluation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuLJ0fN1wrrONSlQ-LBPlU752XgzqvV0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177719478045:android:66357562966b54feac03f4",
+        "android_client_info": {
+          "package_name": "com.example.class_tasks_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuLJ0fN1wrrONSlQ-LBPlU752XgzqvV0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177719478045:android:be32f0cf5cf637daac03f4",
+        "android_client_info": {
+          "package_name": "com.example.uni_info_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuLJ0fN1wrrONSlQ-LBPlU752XgzqvV0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
