@@ -51,7 +51,7 @@ A CMS-like Flutter application for class/assessment evaluation.
 
 ## Screenshots
 
-_Add screenshots here to showcase the dashboard, evaluation form, and progress cards._
+Coming Soon
 
 ## Tech Stack
 
